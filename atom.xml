@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://tony-mo.github.io/atom.xml" rel="self"/>
   <link href="http://tony-mo.github.io/"/>
-  <updated>2015-06-15T17:09:26+08:00</updated>
+  <updated>2015-06-15T17:15:21+08:00</updated>
   <id>http://tony-mo.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How To Code Cordova Plugin]]></title>
+    <link href="http://tony-mo.github.io/blog/2015/06/15/how-to-code-cordova-plugin/"/>
+    <updated>2015-06-15T00:00:00+08:00</updated>
+    <id>http://tony-mo.github.io/blog/2015/06/15/how-to-code-cordova-plugin</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
